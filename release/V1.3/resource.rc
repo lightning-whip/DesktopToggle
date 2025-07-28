@@ -1,0 +1,7 @@
+#include <windows.h>
+
+// 定义图标资源
+#define IDI_MAIN_ICON 101
+
+// 图标资源
+IDI_MAIN_ICON ICON "icon.ico"
